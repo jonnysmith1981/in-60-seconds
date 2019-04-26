@@ -4,9 +4,14 @@
 
 ---
 
-## Add Some Slide Candy
+## nEw TeAm MeMbEr!!!11!!1!!1
+Lorraine.
 
-![](assets/img/presentation.png)
+---
+
+## So, what _have_ we been working on?
+
+- Localisation
 
 ---
 @title[Customize Slide Layout]
