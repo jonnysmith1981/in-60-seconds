@@ -12,7 +12,7 @@ Lorraine.
 ## So, what _have_ we been working on?
 
 @ul[text-white]
-- @color[pink](Localisation)
+- @color[#ED24E0](Localisation)
 - Usability Improvements
 - Ongoing defect resolution
 @ulend
