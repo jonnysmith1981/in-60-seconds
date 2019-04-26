@@ -33,25 +33,44 @@ Spring Prezzo
 
 ---
 
+### &quot;Can we make the plots taller?&quot;
+_...just like MassLynx_
+
+---
+
+### &quot;Can we have the scope controls visible?&quot;
+_...just like MassLynx_
+
+---
+
+### &quot;Can we have the fluidics controls visible?&quot;
+_...just like MassLynx_
+
+---
+
+Changes were made.
+Feedback was sought.
+
+---
+
+@img[shadow](assets/img/laughing.png)
 
 ---?color=#000000
-@title[Add A Little Imagination]
 
-@snap[north-west]
-#### Add a splash of @color[green](**color**) and you are ready to start presenting...
+@color[#00FF66](`git revert HEAD`)
+
+---
+
+*Different* changes were made...
+
+
+---?color=#000000
+
+@snap[north span-50]
+##Demo
 @snapend
-
-@snap[west span-55]
-@ul[spaced text-white]
-- You will be amazed
-- What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
-@ulend
-@snapend
-
-@snap[east span-45]
-@img[shadow](assets/img/conference.png)
+@snap[south span-50]
+_[This section left intentionally blank]_
 @snapend
 
 ---
