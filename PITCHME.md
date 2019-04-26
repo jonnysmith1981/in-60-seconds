@@ -75,8 +75,6 @@ Feedback was sought.
 
 *Different* changes were made...
 
----
-
 ---?color=#000000
 
 @snap[north span-50]
@@ -97,6 +95,7 @@ _[This section left intentionally blank]_
 - @color[#91B83F](Finish Raven UI work)
 - @color[#ED24E0](Improvements to Health System UI)
 - @color[#0117FF](Develop Rear Panel UI)
+- @color[#0117FF](Diagnostics UI)
 @ulend
 @snapend
 
