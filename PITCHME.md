@@ -78,6 +78,7 @@ _[This section left intentionally blank]_
 @snap[north span-50]
 ## Questions?
 @snapend
+@snap[south span-50]
 ### Made with GitPitch
 *(Like PowerPoint, but more difficulter.)*
 @snapend
