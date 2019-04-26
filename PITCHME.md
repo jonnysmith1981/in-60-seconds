@@ -1,4 +1,4 @@
-@img[shadow](assets/img/bcast.png)
+@img[shadow](assets/img/bcast.jpeg)
 
 ---
 @snap[north span-50]
