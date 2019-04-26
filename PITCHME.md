@@ -1,4 +1,4 @@
-@snap[west span-50]
+@snap[north span-50]
 ## Welome to the....
 The @color[#ED24E0](Team UI / UX)
 Spring Prezzo
