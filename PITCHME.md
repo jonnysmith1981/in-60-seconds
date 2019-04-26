@@ -21,40 +21,36 @@ Spring Prezzo
 
 @snap[east span-50]
 @ul[text-white]
-- @color[#91B83F](Ongoing defect resolution)
+- @color[#91B83F](Ongoing improvements & defect resolution)
 - @color[#ED24E0](Localisation)
 - @color[#0117FF](Raven Usability "Improvements")
 @ulend
 @snapend
 
----?color=#000000
-
-### @color[cyan](**A long time ago in a framework far, far away ...**)
-
 ---
 
 ### They asked for taller plots.
-_We gave them taller plots_
+@color[#0117FF](_We gave them taller plots_)
 
 ---
 
 ### They asked for visible scope controls
-_We gave them visible scope controls_
+@color[#0117FF](_We gave them visible scope controls_)
 
 ---
 
 ### They asked for slider controls on settings
-_We gave them slider controls on settings_
+@color[#0117FF](_We gave them slider controls on settings_)
 
 ---
 
 ### They asked for the ability to increase the gain by clicking on the plot
-_We gave them that power_
+@color[#0117FF](_We gave them that power_)
 
 ---
 
 ### They asked for visible fluidics controls
-_...yeah, we're working on that_
+@color[#0117FF](_...yeah, we're working on that_)
 
 ---
 
@@ -79,6 +75,7 @@ Feedback was sought.
 
 *Different* changes were made...
 
+---
 
 ---?color=#000000
 
@@ -87,6 +84,20 @@ Feedback was sought.
 @snapend
 @snap[south span-50]
 _[This section left intentionally blank]_
+@snapend
+
+---
+
+@snap[west span-50]
+## What's next
+@snapend
+
+@snap[east span-50]
+@ul[text-white]
+- @color[#91B83F](Finish Raven UI work)
+- @color[#ED24E0](Improvements to Health System UI)
+- @color[#0117FF](Develop Rear Panel UI)
+@ulend
 @snapend
 
 ---
