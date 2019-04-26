@@ -1,3 +1,11 @@
+@snap[west span-50]
+## Welome to the....
+The @color[#ED24E0](Team UI / UX)
+Spring Prezzo
+@snapend
+@snap[south span-50]
+@img[shadow](assets/img/200.gif)
+@snapend
 
 ---?color=#000000
 ### @color[#e6e600](<new-team-member name=")@color[#3832ea](Lorraine)@color[#e6e600](">)
