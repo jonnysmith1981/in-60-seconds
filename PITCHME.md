@@ -1,3 +1,6 @@
+@img[shadow](assets/img/bcast.png)
+
+---
 @snap[north span-50]
 ## Welome to the....
 The @color[#ED24E0](Team UI / UX)
@@ -29,6 +32,7 @@ Spring Prezzo
 ### @color[cyan](**A long time ago in a framework far, far away ...**)
 
 ---
+
 
 ---?color=#000000
 @title[Add A Little Imagination]
