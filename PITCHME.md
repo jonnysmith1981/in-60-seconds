@@ -3,7 +3,7 @@
 ---
 @snap[north span-50]
 ## Welome to the....
-The @color[#ED24E0](Team UI / UX)
+The @color[#ED24E0](Team UI / UX) Quartz
 Spring Prezzo
 @snapend
 @snap[south span-50]
