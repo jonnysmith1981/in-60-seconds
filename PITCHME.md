@@ -11,7 +11,7 @@ Lorraine.
 
 ## So, what _have_ we been working on?
 
-@ul[spaced text-white]
+@ul[text-white]
 - @color[pink](Localisation)
 - Usability Improvements
 - Ongoing defect resolution
