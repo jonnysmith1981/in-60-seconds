@@ -11,7 +11,6 @@ Lorraine.
 
 ## So, what _have_ we been working on?
 
-@snap[west span-55]
 @ul[spaced text-white]
 - @color[pink](Localisation)
 - Usability Improvements
