@@ -8,25 +8,16 @@
 ## </new-team-member>
 
 ---
-
+@snap[west span-50]
 ## So, what _have_ we been working on?
-@snap[south span-50]
+@snapend
+
+@snap[east span-50]
 @ul[text-white]
 - @color[#ED24E0](Localisation)
 - @color[#0117FF](Raven Usability "Improvements")
 - @color[#91B83F](Ongoing defect resolution)
 @ulend
-@snapend
-
----
-@title[Customize Slide Layout]
-
-@snap[west span-50]
-## Customize Slide Content Layout
-@snapend
-
-@snap[east span-50]
-![](assets/img/presentation.png)
 @snapend
 
 ---?color=#000000
