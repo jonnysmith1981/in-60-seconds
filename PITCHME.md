@@ -33,23 +33,38 @@ Spring Prezzo
 
 ---
 
-### &quot;Can we make the plots taller?&quot;
-_...just like MassLynx_
+### They asked for taller plots.
+_We gave them taller plots_
 
 ---
 
-### &quot;Can we have the scope controls visible?&quot;
-_...just like MassLynx_
+### They asked for visible scope controls
+_We gave them visible scope controls_
 
 ---
 
-### &quot;Can we have the fluidics controls visible?&quot;
-_...just like MassLynx_
+### They asked for slider controls on settings
+_We gave them slider controls on settings_
 
 ---
 
+### They asked for the ability to increase the gain by clicking on the plot
+_We gave them that power_
+
+---
+
+### They asked for visible fluidics controls
+_...yeah, we're working on that_
+
+---
+
+@snap[west span-75]
 Changes were made.
 Feedback was sought.
+@snapend
+@snap[east span-25]
+@img[shadow](assets/img/wolf-580.jpg)
+@snapend
 
 ---
 
@@ -57,7 +72,7 @@ Feedback was sought.
 
 ---?color=#000000
 
-@color[#00FF66](`git revert HEAD`)
+@color[#00FF66](`> git revert HEAD`)
 
 ---
 
