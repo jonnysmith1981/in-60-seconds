@@ -67,7 +67,7 @@ Feedback was sought.
 ---?color=#000000
 
 @snap[north span-50]
-##Demo
+## Demo
 @snapend
 @snap[south span-50]
 _[This section left intentionally blank]_
@@ -75,5 +75,9 @@ _[This section left intentionally blank]_
 
 ---
 
+@snap[north span-50]
+## Questions?
+@snapend
 ### Made with GitPitch
 *(Like PowerPoint, but more difficulter.)*
+@snapend
