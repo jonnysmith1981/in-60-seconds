@@ -4,8 +4,8 @@
 
 ---
 
-## <new-team-member name="@color[#3832ea](Lorraine)">
-## </new-team-member>
+## `<new-team-member name="@color[#3832ea](Lorraine)">`
+## `</new-team-member>`
 
 ---
 @snap[west span-50]
