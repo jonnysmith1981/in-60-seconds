@@ -1,6 +1,6 @@
 ---?color=#000000
 
-### @color[green](**A long time ago in a framework far, far away ...**)
+### @color[cyan](**A long time ago in a framework far, far away ...**)
 
 ---
 
