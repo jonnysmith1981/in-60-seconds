@@ -58,11 +58,11 @@ _...yeah, we're working on that_
 
 ---
 
-@snap[west span-75]
+@snap[west span-50]
 Changes were made.
 Feedback was sought.
 @snapend
-@snap[east span-25]
+@snap[east span-50]
 @img[shadow](assets/img/wolf-580.jpg)
 @snapend
 
