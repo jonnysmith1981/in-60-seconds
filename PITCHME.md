@@ -11,7 +11,13 @@ Lorraine.
 
 ## So, what _have_ we been working on?
 
-- Localisation
+@snap[west span-55]
+@ul[spaced text-white]
+- @color[pink](Localisation)
+- Usability Improvements
+- Ongoing defect resolution
+@ulend
+@snapend
 
 ---
 @title[Customize Slide Layout]
