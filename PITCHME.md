@@ -1,11 +1,7 @@
+
 ---?color=#000000
-
-### @color[cyan](**A long time ago in a framework far, far away ...**)
-
----
-
-## `<new-team-member name="@color[#3832ea](Lorraine)">`
-## `</new-team-member>`
+### @color[#e6e600](<new-team-member name=")@color[#3832ea](Lorraine)@color[#e6e600](">)
+### @color[#e6e600](</new-team-member>)
 
 ---
 @snap[west span-50]
@@ -14,11 +10,17 @@
 
 @snap[east span-50]
 @ul[text-white]
+- @color[#91B83F](Ongoing defect resolution)
 - @color[#ED24E0](Localisation)
 - @color[#0117FF](Raven Usability "Improvements")
-- @color[#91B83F](Ongoing defect resolution)
 @ulend
 @snapend
+
+---?color=#000000
+
+### @color[cyan](**A long time ago in a framework far, far away ...**)
+
+---
 
 ---?color=#000000
 @title[Add A Little Imagination]
@@ -40,10 +42,7 @@
 @img[shadow](assets/img/conference.png)
 @snapend
 
----?image=assets/img/presenter.jpg
+---
 
-@snap[north span-100 headline]
-## Now It's Your Turn
-@snapend
-
-
+### Made with GitPitch
+*(Like PowerPoint, but more difficulter.)*
