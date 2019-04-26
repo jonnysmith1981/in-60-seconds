@@ -4,8 +4,8 @@
 
 ---
 
-## nEw TeAm MeMbEr!!!11!!1!!1
-Lorraine.
+## <new-team-member name="@color[#3832ea](Lorraine)">
+## </new-team-member>
 
 ---
 
@@ -13,8 +13,8 @@ Lorraine.
 @snap[south span-50]
 @ul[text-white]
 - @color[#ED24E0](Localisation)
-- Usability Improvements
-- Ongoing defect resolution
+- @color[#0117FF](Raven Usability "Improvements")
+- @color[#91B83F](Ongoing defect resolution)
 @ulend
 @snapend
 
