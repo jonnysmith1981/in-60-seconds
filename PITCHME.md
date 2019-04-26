@@ -1,4 +1,6 @@
-## @color[cyan](**A long time ago in a framework far, far away ...**)
+---?color=#000
+
+### @color[cyan](**A long time ago in a framework far, far away ...**)
 
 ---
 
@@ -21,7 +23,7 @@
 @title[Add A Little Imagination]
 
 @snap[north-west]
-#### Add a splash of @color[cyan](**color**) and you are ready to start presenting...
+#### Add a splash of @color[green](**color**) and you are ready to start presenting...
 @snapend
 
 @snap[west span-55]
