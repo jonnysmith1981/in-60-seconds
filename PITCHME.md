@@ -8,8 +8,8 @@ Spring Prezzo
 @snapend
 
 ---?color=#000000
-### @color[#e6e600](<new-team-member name=")@color[#3832ea](Lorraine)@color[#e6e600](">)
-### @color[#e6e600](</new-team-member>)
+### @color[#e6e600](&lt;new-team-member name=")@color[#3832ea](Lorraine)@color[#e6e600]("&gt;)
+### @color[#e6e600](&lt;/new-team-member&gt;)
 
 ---
 @snap[west span-50]
