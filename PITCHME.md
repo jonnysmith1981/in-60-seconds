@@ -60,6 +60,7 @@ _...yeah, we're working on that_
 
 @snap[west span-50]
 Changes were made.
+
 Feedback was sought.
 @snapend
 @snap[east span-50]
@@ -68,7 +69,7 @@ Feedback was sought.
 
 ---
 
-@img[shadow](assets/img/laughing.png)
+@img[shadow](assets/img/laughing.jpg)
 
 ---?color=#000000
 
