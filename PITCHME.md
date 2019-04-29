@@ -1,53 +1,114 @@
+@img[shadow](assets/img/bcast.jpeg)
+
+---
+@snap[north span-50]
+## Welome to the....
+The @color[#ED24E0](Team UI / UX) Quartz
+Spring Prezzo
+@snapend
+@snap[south span-50]
+@img[shadow](assets/img/200.gif)
+@snapend
+
 ---?color=#000000
-
-### @color[cyan](**A long time ago in a framework far, far away ...**)
-
----
-
-## nEw TeAm MeMbEr!!!11!!1!!1
-Lorraine.
+### @color[#e6e600](&lt;new-team-member name=")@color[#3832ea](Lorraine)@color[#e6e600]("&gt;)
+### @color[#e6e600](&lt;/new-team-member&gt;)
 
 ---
-
-## So, what _have_ we been working on?
-
-- Localisation
-
----
-@title[Customize Slide Layout]
-
 @snap[west span-50]
-## Customize Slide Content Layout
+## So, what _have_ we been working on?
 @snapend
 
 @snap[east span-50]
-![](assets/img/presentation.png)
-@snapend
-
----?color=#000000
-@title[Add A Little Imagination]
-
-@snap[north-west]
-#### Add a splash of @color[green](**color**) and you are ready to start presenting...
-@snapend
-
-@snap[west span-55]
-@ul[spaced text-white]
-- You will be amazed
-- What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
+@ul[text-white]
+- @color[#91B83F](Ongoing improvements & defect resolution)
+- @color[#ED24E0](Localisation)
+- @color[#0117FF](Raven Usability "Improvements")
 @ulend
 @snapend
 
-@snap[east span-45]
-@img[shadow](assets/img/conference.png)
+---
+
+## Raven Usability "Improvements"
+
+---
+
+### They asked for taller plots.
+@color[#0117FF](_We gave them taller plots_)
+
+---
+
+### They asked for visible scope controls
+@color[#0117FF](_We gave them visible scope controls_)
+
+---
+
+### They asked for slider controls on settings
+@color[#0117FF](_We gave them slider controls on settings_)
+
+---
+
+### They asked for the ability to increase the gain by clicking on the plot
+@color[#0117FF](_We gave them that power_)
+
+---
+
+### They asked for visible fluidics controls
+@color[#0117FF](_...yeah, we're working on that_)
+
+---
+
+@snap[west span-50]
+Changes were made.
+
+Feedback was sought.
+@snapend
+@snap[east span-50]
+@img[shadow](assets/img/wolf-580.jpg)
 @snapend
 
----?image=assets/img/presenter.jpg
+---
 
-@snap[north span-100 headline]
-## Now It's Your Turn
+@img[shadow](assets/img/laughing.jpg)
+
+---?color=#000000
+
+@color[#00FF66](`> git revert HEAD`)
+
+---
+
+*Different* changes were made...
+
+---?color=#000000
+
+@snap[north span-50]
+## Demo
+@snapend
+@snap[south span-50]
+_[This section left intentionally blank]_
 @snapend
 
+---
 
+@snap[west span-50]
+## What's next
+@snapend
+
+@snap[east span-50]
+@ul[text-white]
+- @color[#91B83F](Finish Raven UI work)
+- @color[#ED24E0](Improvements to Health System UI)
+- @color[#0117FF](Develop Rear Panel UI)
+- @color[#91B83F](Diagnostics UI)
+@ulend
+@snapend
+
+---
+
+@snap[north span-50]
+## Questions?
+@snapend
+@snap[south span-50]
+### Made with GitPitch
+*(Like PowerPoint, but more difficulter.)*
+@snapend
